@@ -1,0 +1,8 @@
+Endpoint: /myEndPoint
+
+
+{
+"number": [1,2],
+ "street":"calicut",
+ "name":"kerala"
+}
